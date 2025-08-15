@@ -37,3 +37,4 @@ logs
 # Temporary files
 .tmp/
 temp/
+website/
